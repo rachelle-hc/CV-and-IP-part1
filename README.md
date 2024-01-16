@@ -2,8 +2,8 @@
 <br>
 computer vision and image processing codes
 <br>
-language:python
+language: python
 <br>
 original ide: spyder
 <BR>
-python libraries: openCV
+libraries: openCV
