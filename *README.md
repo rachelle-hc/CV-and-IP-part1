@@ -6,4 +6,4 @@ language: python
 <br>
 original ide: spyder
 <BR>
-libraries: openCV
+libraries: openCV (cv2), numpy, pyautogui
