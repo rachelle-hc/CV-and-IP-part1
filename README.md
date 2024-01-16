@@ -1,2 +1,3 @@
 # cv-and-ip
-cv and ip related codes
+computer vision and image processing codes
+language:python
