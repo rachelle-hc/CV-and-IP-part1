@@ -1,6 +1,6 @@
 # cv-and-ip (part 1)
 <br>
-if you find any issues, please write it in issue section!!
+IF YOU FIND ANY ISSUES, PLEASE WRITE IT IN THE ISSUE SECTION!! I AM A BEGINNER AND IT WOULD HELP!
 <br>
 computer vision and image processing codes
 <br>
