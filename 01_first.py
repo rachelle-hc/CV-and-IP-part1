@@ -5,9 +5,8 @@ img1=cv2.imread("C:\\Users\\dell\\Downloads\\forest.jpg",1) #use 1,0,-1 works on
 #path if giving error, use double slashes or r'path_with_single_slashes or somethign else, forgot , ask chatg, or look ath video again
 img1=cv2.resize(img1,(640,350)) #width, height
 print(img1)
-cv2.imshow("original",img1)
-#cv2.waitKey()
-#cv2.destroyAllWindows()
+cv2.imshow("original",img1) #original is the window_name user puts
+
 
 print("matrix of greyscale")
 img2=cv2.imread("C:\\Users\\dell\\Downloads\\forest.jpg",0)
