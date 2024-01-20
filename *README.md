@@ -1,5 +1,7 @@
 # cv-and-ip (part 1)
 <br>
+if you find any issues, please write it in issue section!!
+<br>
 computer vision and image processing codes
 <br>
 language: python
